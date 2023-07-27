@@ -1,3 +1,5 @@
+// listede aynı ilden varsa eklemiyor
+
 
 
 public partial class Form1 : Form
